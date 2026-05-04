@@ -37,3 +37,5 @@ This project focuses on:
 * Better visualization of parallel tasks
 * Timeline view
 * Dependency tracking between tasks
+
+AI tools were used minimally for debugging and general guidance. The core logic, architecture, and implementation were written independently.
